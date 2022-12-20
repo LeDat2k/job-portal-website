@@ -1,4 +1,4 @@
-  =>  Template Name    : JobEntry - Job Portal Website Template
+  =>  Template Name    : Applicant tracking system - Job Portal Website Template
 
   =>  Template Link    : https://htmlcodex.com/job-portal-website-template
 
